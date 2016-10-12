@@ -6,7 +6,8 @@ This *app* is designed to be a single-file html/js clock screensaver with no ext
 prettier alternative to the built-in clock screensavers provided by Mac OS or Windows.
 
 An HTML screensaver is required:
-- Mac OS [Web Saver](https://github.com/tlrobinson/WebSaver)
+- Mac OS - [Web Saver](https://github.com/tlrobinson/WebSaver)
+- Windows - ???
 
 ### Example
 
